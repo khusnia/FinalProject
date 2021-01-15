@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "257089016110",
+    "firebase_url": "https://mykontrakan-d765a.firebaseio.com",
+    "project_id": "mykontrakan-d765a",
+    "storage_bucket": "mykontrakan-d765a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257089016110:android:39d4ee0d7925b57ac32abf",
+        "android_client_info": {
+          "package_name": "com.khusnia.mylaundry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257089016110-b48bv70ujr62aijvk1qm95kfhhgqs6pi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.khusnia.mylaundry",
+            "certificate_hash": "79b5571d0f881d66411dee960a46e6e92b5ccdc3"
+          }
+        },
+        {
+          "client_id": "257089016110-0dcst6hk1dnf3tl2qlecadju8k3sbk6c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6MIxN2o8DHIMOtjLwMvrpccvCUZOV9xs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257089016110-0dcst6hk1dnf3tl2qlecadju8k3sbk6c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
